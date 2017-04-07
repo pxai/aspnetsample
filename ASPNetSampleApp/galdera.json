@@ -1,0 +1,150 @@
+﻿{
+    "question": [
+        {
+            "lang": "eu",
+            "question": "ETAren armagabetzea"
+        },
+        {
+            "lang": "es",
+            "question": "La entrega de las armas de ETA"
+        },
+        {
+            "lang": "en",
+            "question": "ETA disarms"
+        }
+    ],
+    "url": "",
+    "description": [
+        {
+            "lang": "eu",
+            "description": ""
+        },
+        {
+            "lang": "es",
+            "description": ""
+        },
+        {
+            "lang": "en",
+            "description": ""
+        }
+    ],
+    "permalink": "etaren-armagabetzea",
+    "type": "normal",
+    "answers": [
+        {
+            "lang": "eu",
+            "answers": [
+                {
+                    "id": 0,
+                    "answer": "Une historikoa"
+                },
+                {
+                    "id": 1,
+                    "answer": "Beste behi ere, gezurra"
+                },
+                {
+                    "id": 2,
+                    "answer": "Bazen garaia"
+                },
+                {
+                    "id": 3,
+                    "answer": "Akats bat da"
+                },
+                {
+                    "id": 4,
+                    "answer": "Independentzia badator"
+                },
+                {
+                    "id": 5,
+                    "answer": "Zer da ETA?"
+                }
+            ]
+        },
+        {
+            "lang": "es",
+            "answers": [
+                {
+                    "id": 0,
+                    "answer": "Un hito histórico"
+                },
+                {
+                    "id": 1,
+                    "answer": "Una vez más, mentira" 
+                },
+                {
+                    "id": 2,
+                    "answer": "Ya era hora"
+                },
+                {
+                    "id": 3,
+                    "answer": "Es un error"
+                },
+                {
+                    "id": 4,
+                    "answer": "Ahora la independencia"
+                },
+                {
+                    "id": 5,
+                    "answer": "¿Qué es ETA?"
+                }
+            ]
+        },
+        {
+            "lang": "en",
+            "answers": [
+                {
+                    "id": 0,
+                    "answer": "Historical moment"
+                },
+                {
+                    "id": 1,
+                    "answer": "Just another lie"
+                },
+                {
+                    "id": 2,
+                    "answer": "Finally"
+                },
+                {
+                    "id": 3,
+                    "answer": "It is a mistake"
+                },
+                {
+                    "id": 4,
+                    "answer": "Now the independence"
+                },
+                {
+                    "id": 5,
+                    "answer": "What is ETA?"
+                }
+            ]
+        }
+    ],
+    "createdAt": "2017-02-28T23:01:43.280Z",
+    "image": "https://s3.amazonaws.com/elasticbeanstalk-us-east-1-986876950425/etabar/backgrounds/background-6.jpg",
+    "tags": [
+        {
+            "lang": "eu",
+            "tags": [
+                "camping",
+                "free",
+                "crime"
+            ]
+        },
+        {
+            "lang": "es",
+            "tags": [
+                "acampada",
+                "libre",
+                "crimen"
+            ]
+        },
+        {
+            "lang": "en",
+            "tags": [
+                "camping",
+                "free",
+                "crime"
+            ]
+        }
+    ]
+}
