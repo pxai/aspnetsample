@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 namespace ASPNetSampleApp.Models
 {
     // Modelos devueltos por las acciones de AccountController.
+    //Vaya curro
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
