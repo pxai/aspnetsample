@@ -12,6 +12,7 @@ using Microsoft.Owin.Security;
 using Owin;
 using ASPNetSampleApp.Models;
 
+/*This is just a comment */
 namespace ASPNetSampleApp.Controllers
 {
     [Authorize]
